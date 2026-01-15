@@ -1,3 +1,18 @@
 {
-	"name": "ZettaGames.ZBS.Editor"
+    "name": "ZettaGames.ZBS.Editor",
+    "rootNamespace": "ZettaGames.ZBS.Editor",
+    "references": [
+        "GUID:23a33609310e2fe4f949be6b70f2c1de"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
